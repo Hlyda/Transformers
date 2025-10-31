@@ -1,4 +1,4 @@
-# Transformer Implementation Project
+# Transformers
 
 This repository contains a detailed implementation and exploration of the Transformer architecture, focusing on the self-attention mechanism. The project is structured through multiple exercises that build up the understanding of transformers from basic components to advanced applications.
 
